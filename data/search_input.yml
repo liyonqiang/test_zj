@@ -1,0 +1,12 @@
+test_search_input_01:
+
+
+  - "你好, China"
+  - "hello, python"
+  - "hello 123"
+
+test_search_input_02:
+  - "1"
+  - "2"
+  - "3"
+
